@@ -38,3 +38,4 @@ for(let i = 0; i < games.length; i++){
     }
 }
 window.alert('The high score is: '+highestScoringGame.score)
+: window.prompt('Do you head left or right?')
